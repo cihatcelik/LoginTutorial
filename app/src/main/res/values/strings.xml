@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Login Tutorial</string>
+
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Şifre</string>
+    <string name="hint_name">Adınız</string>
+    <string name="login">Giriş</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="btn_link_to_register">Hala üye değil misin? Kayıt Ol!</string>
+    <string name="btn_link_to_login"></string>
+    <string name="welcome">Hoşgeldiniz</string>
+
+</resources>
